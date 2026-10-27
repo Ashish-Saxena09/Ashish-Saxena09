@@ -41,6 +41,7 @@
 - LinkedIn:
 - Gmail: saxenaashish5409@gmail.com
 - Contact no: 9354360664
+
 *Still learning, still building, and getting a little better with every project.*
 
 
@@ -93,13 +94,6 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/Ashish-Saxena09">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ashish-Saxena09&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=Ashish-Saxena09)
 <br/>
 
 ## 🔗 Connect with Me
